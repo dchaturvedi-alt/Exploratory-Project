@@ -1,0 +1,156 @@
+Number of SMs: 100	Number of iterations: 50
+MG: 5 pr: 0.1
+Local leader limit: 5 Global Leader Limit5
+
+No. of runs	fitness
+0 2791.6187047304156
+1 2791.6187047304156
+2 2791.6187047304156
+3 2791.6187047304156
+4 2791.6187047304156
+5 2791.6187047304156
+6 2791.6187047304156
+7 2791.6187047304156
+8 2791.6187047304156
+9 2791.6187047304156
+Number of SMs: 100	    Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+0 3113.2110306143104
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+0 2753.899661612229
+1 2753.899661612229
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+0 2837.54052109025
+1 2837.54052109025
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+0 2412.9932356103623
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+0 2970.9458159194005
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+0 2578.579129409138
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+0 2771.1910560907345
+1 2771.1910560907345
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+0 2801.3140163419844
+1 2801.3140163419844
+99 2974.126698989424
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+99 2673.7347688748673
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+99 2761.0752783773064
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+99 2863.986446251466
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+99 2615.8551372581082
+1 2615.8551372581082
+99 2755.7120949376354
+Number of SMs: 100	Number of iterations: 50
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+99 2560.76595490464
+99 2942.103160043963
+99 3020.431712369914
+----------------------------------------------
+Number of SMs: 100	Number of iterations: 100
+ MG: 5 pr: 0.1
+ Local leader limit: 5 Global Leader Limit: 5
+
+No. of runs		fitness
+1               2415.4489659157257
+
+----------------------------------------------
+
+Number of SMs: 100	Number of iterations: 100
+ MG: 5 pr: 0.1
+ Local leader limit: 10 Global Leader Limit: 10
+
+No. of runs		fitness
+1               2671.6161451701014
+
+----------------------------------------------
+Number of SMs: 200	Number of iterations: 100
+ MG: 5 pr: 0.1
+ Local leader limit: 10 Global Leader Limit: 10
+
+No. of runs		fitness
+1               2505.8952270769187
+----------------------------------------------
+
+Number of SMs: 200	Number of iterations: 100
+ MG: 10 pr: 0.1
+ Local leader limit: 10 Global Leader Limit: 10
+
+No. of runs		fitness
+1               2562.1927974747246
+
+----------------------------------------------
+Number of SMs: 200	Number of iterations: 100
+ MG: 10 pr: 0.1
+ Local leader limit: 75 Global Leader Limit: 75
+
+No. of runs		fitness
+1               2271.0782340469277
+
+----------------------------------------------
+Number of SMs: 200	Number of iterations: 100
+ MG: 10 pr: 0.1
+ Local leader limit: 100 Global Leader Limit: 100
+
+No. of runs		fitness
+1               2478.849917763695
+Number of SMs: 200	Number of iterations: 100
+ MG: 10 pr: 0.1
+ Local leader limit: 50 Global Leader Limit: 50
+
+No. of runs		fitness
+2313.6565359600036
